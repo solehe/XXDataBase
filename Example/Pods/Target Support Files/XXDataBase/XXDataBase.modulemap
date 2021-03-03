@@ -1,0 +1,6 @@
+framework module XXDataBase {
+  umbrella header "XXDataBase-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,16 @@
+PODS:
+  - XXDataBase (0.1.0)
+
+DEPENDENCIES:
+  - XXDataBase (from `../`)
+
+EXTERNAL SOURCES:
+  XXDataBase:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  XXDataBase: 3dc386d3a43858e380f4680d45041473af0ccd00
+
+PODFILE CHECKSUM: 9f9e8fd615779d4d82409a3b687ccbf404e928b7
+
+COCOAPODS: 1.9.3

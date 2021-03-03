@@ -1,0 +1,27 @@
+{
+  "name": "XXDataBase",
+  "version": "0.1.0",
+  "summary": "A short description of XXDataBase.",
+  "description": "Add long description of the pod here.",
+  "homepage": "https://github.com/solehe/XXDataBase",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "solehe": "soleworld@163.com"
+  },
+  "source": {
+    "git": "https://github.com/solehe/XXDataBase.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "XXDataBase/Classes/**/*",
+  "dependencies": {
+    "WCDB.swift": [
+
+    ]
+  }
+}
