@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'XXDataBase_Example' do
+  pod 'XXDataBase', :path => '../'
+
+  target 'XXDataBase_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
