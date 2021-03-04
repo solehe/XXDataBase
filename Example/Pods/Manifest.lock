@@ -5,7 +5,7 @@ PODS:
     - SQLiteRepairKit (~> 1.2.0)
     - WCDBOptimizedSQLCipher (~> 1.2.0)
   - WCDBOptimizedSQLCipher (1.2.1)
-  - XXDataBase (0.1.0):
+  - XXDataBase (0.1.1):
     - WCDB.swift
 
 DEPENDENCIES:
@@ -25,8 +25,8 @@ SPEC CHECKSUMS:
   SQLiteRepairKit: 35aaae5a8838adb85f5b1eb4d796055be6060a4b
   WCDB.swift: 05d509d7a0e60fb6e11c34eb7e4027c0fab5849f
   WCDBOptimizedSQLCipher: baf44493b0c7a3d49e97bc5b64a3856f6428ddd1
-  XXDataBase: 10de8db8ccd2795a8a801e2cd48550e117b7a3e5
+  XXDataBase: 14beb2d8d49f3419a2f692b3eb73a725ca0ab5bb
 
 PODFILE CHECKSUM: 9f9e8fd615779d4d82409a3b687ccbf404e928b7
 
-COCOAPODS: 1.9.0
+COCOAPODS: 1.9.3
