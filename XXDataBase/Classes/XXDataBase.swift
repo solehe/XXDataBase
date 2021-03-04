@@ -6,12 +6,12 @@
 //
 
 import Foundation
-import WCDBSwift
+@_exported import WCDBSwift
 
 public class XXDataBase: NSObject {
 
     /// 数据库工具类实例
-    static let share = XXDataBase()
+    static public let share = XXDataBase()
     
     /// 数据库实例
     var database: Database?
